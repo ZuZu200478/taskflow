@@ -4,8 +4,7 @@ TaskFlow 是一個管理課業、研究、工作與生活事項的互動式 Web 
 透過任務卡片、日曆、時間軸與優先矩陣，協助使用者安排任務的處理順序。
 
 ## 網站連結
-
-[https://你的GitHub帳號.github.io/taskflow/](https://github.com/ZuZu200478/taskflow)
+https://github.com/ZuZu200478/taskflow
 
 ## 製作動機
 
